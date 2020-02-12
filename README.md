@@ -4,4 +4,4 @@
 
 [DST_URL] 目标网址需要末尾添加/
 
-[Dict] 爆破的字典
+[Dict] 爆破的字典 推荐隔壁的https://github.com/TheKingOfDuck/fuzzDicts
